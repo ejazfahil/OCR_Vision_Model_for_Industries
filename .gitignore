@@ -1,0 +1,90 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+# Exclude notebooks with sensitive data
+17sep_tt_GC.ipynb
+17sep_tt_k.ipynb
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Models (too large for git)
+models/*.pth
+models/*.pt
+models/*.onnx
+models/*.pb
+
+# Data (add specific data files to git if needed)
+data/train/*
+data/val/*
+data/test/*
+!data/train/.gitkeep
+!data/val/.gitkeep
+!data/test/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# API keys and secrets
+.env
+*.key
+config/secrets.yaml
+
+# Temporary files
+tmp/
+temp/
+*.tmp

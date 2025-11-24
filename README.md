@@ -252,4 +252,4 @@ If you use this work in your research, please cite:
 
 ⭐ If you find this project useful, please consider giving it a star!
 
-**Status**: ✅ Production Ready | 📚 Thesis Complete | 🎓 Defense Ready
+**Status**: ✅ Production Ready | 📚 Thesis Work for my Defence | 

@@ -5,10 +5,10 @@
 ---
 
 **Author:** Ejaz Fahil  
-**Institution:** [Your University Name]  
-**Department:** Computer Science / Artificial Intelligence  
-**Degree:** Master of Science in Computer Science  
-**Supervisor:** [Supervisor Name]  
+**Institution:** Universita Degli Napoli federico II
+**Department:** DIETI, UNINA
+**Degree:** Master of Science in Data Science  
+**Supervisor:** Professor Flora Amato  
 **Date:** November 2025
 
 ---
